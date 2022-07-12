@@ -1,0 +1,4 @@
+Name of the customer:Raj
+The total sum of price: $2.0
+Date and time of books borrowed:14717535
+ Borrowed books are:Harry Potter

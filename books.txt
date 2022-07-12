@@ -1,0 +1,5 @@
+Harry Potter, JK Rowling,29,    2
+Beloved, Tom Morrison,10,    1.5
+Programming, John Smith , 0,    1.5
+The Hobbit, JRR Tolkien,5,    3
+Invisible man, Ralph Ellison, 4,    5
